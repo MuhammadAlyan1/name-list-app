@@ -1,0 +1,16 @@
+.popupDiv {
+  position: absolute;
+  background-color: white;
+  top: 3rem;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 5px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+
+.popupDiv h3 {
+  color: rgb(161, 7, 7);
+  padding: 0.5rem 2rem;
+  margin: 0px;
+  text-transform: capitalize;
+}
