@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/name-list-app/static/css/main.a461b8cd.css",
+    "main.js": "/name-list-app/static/js/main.dc34ca21.js",
+    "index.html": "/name-list-app/index.html",
+    "main.a461b8cd.css.map": "/name-list-app/static/css/main.a461b8cd.css.map",
+    "main.dc34ca21.js.map": "/name-list-app/static/js/main.dc34ca21.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a461b8cd.css",
+    "static/js/main.dc34ca21.js"
+  ]
+}
